@@ -1,0 +1,6 @@
+streamlit
+yfinance
+plotly
+transformers
+torch
+ta
